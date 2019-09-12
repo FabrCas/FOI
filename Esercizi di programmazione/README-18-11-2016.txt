@@ -1,0 +1,49 @@
+
+LABORATORIO DEL 18 novembre 2016
+
+OBIETTIVO: esercizi sulle istruzioni condizionali e ripetitive
+
+MODALITA': seguire le istruzioni riportate di seguito, passo per passo ed ESEGUIRE GLI ESERCIZI IN SEQUENZA
+
+=================================================================ESERCIZIO 1: ISTRUZIONI CONDIZIONALI
+=================================================================
+
+Scrivi un programma che chiede all'utente di inserire tre numeri interi, li legge e stampa un messaggio che indica all'utente il valore massimo ed il valore minimo fra quelli letti.
+
+=================================================================ESERCIZIO 2: ISTRUZIONI CONDIZIONALI
+=================================================================
+
+Scrivi un programma che chiede all'utente di inserire quattro numeri interi, li legge e stampa uno dei seguenti messaggi:
+
+- "Ci sono esattamente 4 numeri fra loro uguali" (se i numeri sono ad esempio 1,1,1,1)
+
+- "Ci sono esattamente 3 numeri fra loro uguali" (se i numeri sono ad esempio 1,1,1,2)
+
+- "Ci sono esattamente 2 numeri fra loro uguali" (se i numeri sono ad esempio 1,1,2,3)
+
+- "Ci sono due coppie di numeri fra loro uguali" (se i numeri sono ad esempio 1,1,2,2)
+
+- "Ci sono esattamente 0 numeri fra loro uguali" (se i numeri sono ad esempio 1,2,3,4)
+
+Parte NON ESSENZIALE, ma riservata solo ai più curiosi (una soluzione verrà pubblicata online quando almeno uno studente avrà inviato una soluzione ottima a frati@dia.uniroma3.it). Come si risolve l'esercizio potendo utilizzare solamente istruzioni di stampa e lettura, l' operatore di assegnamento, operatori matematici (+, -, *, /), operatori di confronto (==, >, ...), ed UNA SOLA ISTRUZIONE IF-ELSE? Sono quindi vietate istruzioni ripetitive, istruzioni condizionali diverse da if-else, array, stringhe, OPERATORI LOGICI (||, &&, !) ... 
+
+=================================================================ESERCIZIO 3: ISTRUZIONI RIPETITIVE
+=================================================================
+
+Scrivi un programma che chiede all'utente di inserire due interi x ed y e stampa tutti gli interi positivi che sono compresi fra x ed y (estremi inclusi) e che non sono divisibili per 3.
+
+=================================================================ESERCIZIO 4: ISTRUZIONI RIPETITIVE
+=================================================================
+
+Scrivi un programma che ripetutamente chiede all'utente di inserire un numero intero. La prima volta che l'utente introduce un intero non positivo, il programma termina stampando la media dei numeri precedentemente introdotti.
+
+==============================================================
+CONSEGNA UNO FRA I SEGUENTI DUE ESERCIZI
+==============================================================
+
+1) Scrivi un programma che chiede all'utente di inserire un numero intero n e stampa i primi n interi della sequenza di Fibonacci. La sequenza di Fibonacci 1,1,2,3,5,8,13,21,34... è tale che i primi due numeri della sequenza sono pari ad uno ed ogni altro numero è pari alla somma dei due precedenti. 
+
+2) Il file KeFa.c contiene un'applicazione che risolve correttamente e restituisce in output un valore, tuttavia è stata scritta molto male: il codice non e' indentato, i nomi delle variabili non sono significativi e non si capisce cosa fa. Sistemare il codice indentandolo, dando nomi significativi alle variabli e scrivendo al posto di xxxx la segnalazione chiara.
+===================================================================
+
+

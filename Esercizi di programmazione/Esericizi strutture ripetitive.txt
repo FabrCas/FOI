@@ -1,0 +1,92 @@
+-------------------------
+DISPARI FINO A N (for)
+-------------------------
+
+Scrivere un'applicazione DispariFinoAN che chiede all'utente di inserire un intero positivo da tastiera e stampa tutti gli interi dispari minori o uguali dell'intero letto. 
+
+-------------------------
+N DISPARI (for)
+-------------------------
+
+Scrivere un'applicazione NDispari che chiede all'utente di inserire un intero positivo n da tastiera e stampa i primi n interi positivi dispari. 
+
+-------------------------
+SOMMA 10 INTERI (for)
+-------------------------
+
+Scrivere un'applicazione Somma10Interi che chiede all'utente di inserire 10 interi di cui l'applicazione stampa la somma. 
+
+-------------------------
+SOMMA N INTERI (for)
+-------------------------
+
+Scrivere un'applicazione SommaNInteri che chiede all'utente di inserire un intero n e poi di inserire n interi di cui l'applicazione stampa la somma. 
+
+-------------------------
+MASSIMO N INTERI (for)
+-------------------------
+
+Scrivere un'applicazione MassimoNInteri che chiede all'utente di inserire un intero n e poi di inserire n interi di cui l'applicazione stampa il massimo. 
+
+-------------------------
+TUTTI POSITIVI (for)
+-------------------------
+
+Scrivere un'applicazione TuttiPositivi che chiede all'utente di inserire un intero n e poi di inserire n interi. L'applicazione stampa un messaggio in cui dice all'utente se tutti gli interi inseriti sono positivi oppure no. 
+
+-------------------------
+RETTANGOLO ASTERISCHI (for annidati)
+-------------------------
+
+Scrivere un'applicazione RettangoloAsterischi che chiede all'utente di inserire due interi da tastiera e stampa un rettangolo di asterischi la cui base e la cui altezza sono pari agli interi inseriti dall'utente. Esempio rettangolo con base 5 ed altezza 3:
+
+*****
+*****
+*****
+
+-------------------------
+MONTAGNA ASTERISCHI (for annidati)
+-------------------------
+
+Scrivere un'applicazione MontagnaAsterischi che chiede all'utente di inserire un intero da tastiera e stampa una montagna di asterischi la cui altezza ? pari all'intero inserito dall'utente. Esempio montagna con altezza 3:
+
+  **
+ ****
+******
+
+-------------------------
+COPPIE DIVISIBILI PER TRE (for annidati)
+-------------------------
+
+Scrivere un'applicazione MontagnaAsterischi che chiede all'utente di inserire un intero n da tastiera e stampa tutte le coppie (i,j) tali che 1<=i<=j<=n e tali che i+j ? divisibile per 3.
+
+-------------------------
+MINIMO COMUNE MULTIPLO (while)
+---------------------- 
+
+Scrivere un'applicazione MinimoComuneMultiplo che legge due interi da tastiera e ne calcola il minimo comune multiplo. Tale valore viene stampato sullo schermo dell'utente. 
+
+-------------------------
+ALMENO UN POSITIVO (do-while)
+-------------------------
+
+Scrivere un'applicazione AlmenoUnPositivo che ripetutamente chiede all'utente di scrivere numeri interi fintanto che l'utente non introduce il numero 0. L'applicazione termina stampando un messaggio che dice all'utente ? stato introdotto almeno un numero positivo oppure no.
+
+-------------------------
+ALMENO DUE POSITIVI CONSECUTIVAMENTE (do-while)
+-------------------------
+
+Scrivere un'applicazione AlmenoDuePositiviConsecutivamente che ripetutamente chiede all'utente di scrivere numeri interi fintanto che l'utente non introduce il numero 0. L'applicazione termina stampando un messaggio che dice all'utente se sono stati introdotti (almeno) due numeri positivi consecutivamente oppure no.
+
+-------------------------
+MCD EUCLIDE (do-while)
+-------------------------
+
+Scrivere un'applicazione MCDEuclide che chiede all'utente di inserire due interi da tastiera e ne calcola il massimo comun divisore utilizzando l'algoritmo di Euclide. L'algoritmo di Euclide ripetutamente svolge le seguenti tre istruzioni: 1) calcola il resto fra il massimo ed il minimo fra i due numeri; 2) aggiorna il valore del massimo fra i due numeri al valore del minimo; 3) aggiorna il valore del minimo fra i due numeri al valore del resto. L'algoritmo termina quando il resto ? zero. Allora il risultato ? il valore memorizzato nel massimo fra i due numeri. 
+
+-------------------------
+MASSIMO E SOMMA (while e do-while)
+-------------------------
+
+Scrivere un'applicazione MassimoSomma che ripetutamente chiede all'utente di scrivere numeri interi positivi. Quando l'utente inserisce un numero negativo o nullo, l'applicazione termina indicando all'utente qual ? il massimo fra i numeri inseriti e qual ? la loro somma. Nota: Il numero negativo o nullo che termina l'esecuzione dell'applicazione non deve essere conteggiato nella somma. Osservare le differenze fra una soluzione che utilizza un ciclo while ed una che utilizza un ciclo do-while.
+

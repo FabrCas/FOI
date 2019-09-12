@@ -1,0 +1,35 @@
+-------------------------
+SEGNO
+-------------------------
+
+Scrivere un'applicazione Segno che chiede all'utente di inserire un intero da tastiera, lo legge e stampa un messaggio che dice all'utente se l'intero ? positivo, negativo o nullo.
+
+-------------------------
+TIPO TRIANGOLO
+-------------------------
+
+Scrivere un'applicazione TipoTriangolo che chiede all'utente di inserire 3 interi a, b e c da tastiera, li legge e stampa un messaggio che dice all'utente se il triangolo con lati a, b e c ? equilatero, isoscele o scaleno.
+
+-------------------------
+E' TRIANGOLO
+-------------------------
+
+Scrivere un'applicazione ETriangolo che chiede all'utente di inserire 3 interi a, b e c da tastiera, li legge e stampa un messaggio che dice all'utente se i tre numeri rappresentano oppure no le misure dei lati di un triangolo (3 numeri formano i lati di un triangolo se sono tutti positivi e ciascuno ? minore della somma degli altri due).
+
+-------------------------
+MESE ANNO
+-------------------------
+
+Scrivere un'applicazione MeseAnno che chiede all'utente di inserire 2 interi m ed a da tastiera, li legge e stampa un messaggio che informa l'utente su quale sia il mese successivo al mese m dell'anno a (ad esempio se l'utente introduce m = 10 ed a =2016, il messaggio stampato deve essere del tipo "11/2016"). 
+
+-------------------------
+BISESTILE
+-------------------------
+
+Scrivere un'applicazione Bisestile che chiede all'utente di inserire un anno da tastiera, lo legge e stampa un messaggio che dice all'utente se l'anno ? bisestile oppure no.
+
+-------------------------
+GIORNO MESE ANNO
+-------------------------
+
+Scrivere un'applicazione GiornoMeseAnno che chiede all'utente di inserire 3 interi g, m ed a da tastiera, li legge e stampa un messaggio che informa l'utente su quale sia il giorno successivo al giorno g del mese m dell'anno a (ad esempio se l'utente introduce g= 31, m = 10 ed a =2016, il messaggio stampato deve essere del tipo "1/11/2016"). 
